@@ -1,0 +1,5 @@
+"environment" : "development",
+"auth" : {
+"username": "abc",
+"password": "root"
+}
